@@ -1,0 +1,14 @@
+.row{
+    /*background-color: #7fa3c9;*/
+    font-family: Verdana;
+    background: #00A99D; 
+    
+}
+footer{
+    color: hsl(0, 0%, 100%);
+    font-size: 15px;
+    display: flex;
+    flex-direction: column;
+    text-align: center
+    /*box-shadow: 2px -2px 5px #999;*/
+}
